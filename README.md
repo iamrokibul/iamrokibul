@@ -4,6 +4,10 @@
 ### 💁🏻‍♂️ About Me
 Having worked as a web developer for three years, I have a solid skill set that encompasses HTML, CSS, JavaScript, Bootstrap, Material UI, Figma, and React. I am a WordPress expert as well. Making stunning, useful, and aesthetically pleasing websites that satisfy the needs of my clients is my passion!
 
+- 🔭 I’m currently working on DEEN 
+- 🌱 I’m currently learning Reactjs, NEXTjs, and Vanilla JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamrokibul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamrokibul1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamrokibul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamrokibul) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamrokibul) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iamrokibul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamrokibul1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithrokibul) 
