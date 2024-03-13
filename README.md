@@ -4,7 +4,7 @@
 ### 💁🏻‍♂️ About Me
 Having worked as a web developer for three years, I have a solid skill set that encompasses HTML, CSS, JavaScript, Bootstrap, Material UI, Figma, and React. I am a WordPress expert as well. Making stunning, useful, and aesthetically pleasing websites that satisfy the needs of my clients is my passion!
 
-- 🔭 I’m currently working on DEEN 
+- 🔭 I’m currently working on ![DEEN](https://deencommerce.com) 
 - 🌱 I’m currently learning Reactjs, NEXTjs, and Vanilla JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
