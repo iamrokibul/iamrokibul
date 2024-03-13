@@ -2,7 +2,7 @@
 ### Hi there 👋, Md. Rokibul Hasan
 <b>A passionate front-end web developer.</b>
 
-Having worked as a web developer for three years, I have a solid skill set that encompasses HTML, CSS, JavaScript, Bootstrap, Material Ui, Figma, and React. I am a WordPress expert as well. Making stunning, useful, and aesthetically pleasing websites that satisfy the needs of my clients is my passion!
+Having worked as a web developer for three years, I have a solid skill set that encompasses HTML, CSS, JavaScript, Bootstrap, Material UI, Figma, and React. I am a WordPress expert as well. Making stunning, useful, and aesthetically pleasing websites that satisfy the needs of my clients is my passion!
 
 Skills: REACT / NEXT / JS / HTML / CSS / WordPress
 
