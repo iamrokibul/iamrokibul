@@ -1,8 +1,8 @@
 ![A passionate frontend web developer.](https://i.ibb.co/85LNXYG/Md-Rokibul-Hasan-iamrokibul.jpg)
 # 👋 Hi, I am Rokibul
-### A passionate front-end web developer.
+### A passionate web developer.
 ## 💁🏻‍♂️ About Me
-Having worked as a web developer for three years, I have a solid skill set that encompasses HTML, CSS, JavaScript, Bootstrap, Material UI, Figma, and React. I am a WordPress expert as well. Making stunning, useful, and aesthetically pleasing websites that satisfy the needs of my clients is my passion!
+Having worked as a web developer for three years, I have a solid skill set that encompasses HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Figma, Reactjs, Nextjs, MongoDB, Expressjs, PHP, and MySQL. I am a WordPress expert as well. Making stunning, useful, and aesthetically pleasing websites that satisfy the needs of my clients is my passion!
 
 <!-- 🔭 I’m currently working on [DEEN](https://deencommerce.com)--> 
 - 🌱 I’m currently learning Reactjs, NEXTjs, and Vanilla JavaScript 
